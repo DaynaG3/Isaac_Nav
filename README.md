@@ -87,6 +87,9 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
+* Ubuntu Linux 22.04
+* ROS 2 Humble (https://docs.ros.org/en/humble/Installation.html#binary-packages)
+* NVIDIA Isaac Sim Version 4.2
 
 ### Installation
 
