@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>p3dx_navigation</name>
+  <version>2.0.0</version>
+  <description>Autonomous mapping and navigation demos for the P3DX</description>
+
+  <author email="jianle001@e.ntu.edu.sg">Bruce Chan Jian Le</author>
+  <maintainer email="jianle001@e.ntu.edu.sg">Bruce Chan Jian Le</maintainer>
+
+  <license>MIT</license>
+  <url type="website">https://github.com/brucechanjianle/p3dx</url>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>nav2_navigation</depend>
+  <depend>slam_toolbox</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
