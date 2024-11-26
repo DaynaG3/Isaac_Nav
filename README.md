@@ -71,8 +71,6 @@
 This repo is for the testing and learning of ROS 2 navigation capabilities using the Nav2 navigation stack.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
