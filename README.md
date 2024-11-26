@@ -27,7 +27,6 @@
 <h3 align="center">Isaac Sim ROS 2 Humble Navigation</h3>
 
   <p align="center">
-    This repo is for the testing and learning of ROS 2 navigation capabilities of NVIDIA's Isaac Sim using the Nav2 navigation stack.
     <br />
     <a href="https://github.com/DaynaG3/Isaac_Nav"><strong>Explore the docs »</strong></a>
     <br />
