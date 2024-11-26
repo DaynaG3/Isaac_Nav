@@ -27,7 +27,7 @@
 <h3 align="center">Isaac Sim ROS 2 Humble Navigation</h3>
 
   <p align="center">
-    This repo is for the testing and learning of ROS 2 navigation capabilities using the Nav2 navigation stack.
+    This repo is for the testing and learning of ROS 2 navigation capabilities of NVIDIA's Isaac Sim using the Nav2 navigation stack.
     <br />
     <a href="https://github.com/DaynaG3/Isaac_Nav"><strong>Explore the docs »</strong></a>
     <br />
@@ -82,11 +82,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+This is the list of software required to run this repository:
 * Ubuntu Linux 22.04
 * ROS 2 Humble (https://docs.ros.org/en/humble/Installation.html#binary-packages)
 * NVIDIA Isaac Sim Version 4.2
