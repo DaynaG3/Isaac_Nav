@@ -31,8 +31,6 @@
     <a href="https://github.com/DaynaG3/Isaac_Nav"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DaynaG3/Isaac_Nav">View Demo</a>
-    ·
     <a href="https://github.com/DaynaG3/Isaac_Nav/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/DaynaG3/Isaac_Nav/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
